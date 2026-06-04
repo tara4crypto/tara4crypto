@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on creating a fun crypto project using all open source data
+- 🌱 I’m currently learning how to refine and specify my questions, clean the available data, and then refine the searches
+- 👯 I’m looking to collaborate on crypto API and incorporating more AI
 
 <!--
 **tara4crypto/tara4crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
